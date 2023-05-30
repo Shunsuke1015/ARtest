@@ -1,0 +1,3 @@
+<a href="TC-R_move.usdz" rel="ar">
+  <img src="test_thumb.png" />
+</a>
